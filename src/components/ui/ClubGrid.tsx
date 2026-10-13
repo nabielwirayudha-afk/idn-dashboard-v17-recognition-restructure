@@ -1,5 +1,4 @@
 import {
-  Dumbbell,
   Music,
   Camera,
   BookOpen,
@@ -66,7 +65,7 @@ function iconForClub(name: string): LucideIcon {
   return Trophy;
 }
 
-export default function ClubGrid({ rows, isAdmin }: { rows: ClubMetricRow[]; isAdmin?: boolean }) {
+export default function ClubGrid({ rows }: { rows: ClubMetricRow[]; isAdmin?: boolean }) {
   if (rows.length === 0) {
     return (
       <p className="text-sm text-center py-8" style={{ color: 'var(--color-text-muted)' }}>

@@ -45,10 +45,13 @@ export default function RecognitionValuesPanel({ data, title, subtitle }: Props)
               ))}
             </Pie>
             <Tooltip
-              formatter={(value: number, name: string) => [
-                `${value} (${total > 0 ? Math.round((value / total) * 100) : 0}%)`,
-                name,
-              ]}
+              formatter={(value, name) => {
+                if (typeof value !== 'number') return [`${value ?? ''}`, name ?? ''];
+                return [
+                  `${value} (${total > 0 ? Math.round((value / total) * 100) : 0}%)`,
+                  name ?? '',
+                ];
+              }}
               contentStyle={{ borderRadius: 8, fontSize: 12 }}
             />
           </PieChart>

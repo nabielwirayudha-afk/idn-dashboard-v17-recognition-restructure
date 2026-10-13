@@ -481,7 +481,13 @@ export default function Overview() {
         </ul>
       </div>
 
-      {showTotmModal && <TotmDeptModal onClose={() => setShowTotmModal(false)} />}
+      {showTotmModal && (
+        <TotmDeptModal
+          dept={filters.department !== 'All' ? filters.department : 'All Departments'}
+          rows={filtered.timmyOfTheMonth}
+          onClose={() => setShowTotmModal(false)}
+        />
+      )}
     </div>
   );
 }
