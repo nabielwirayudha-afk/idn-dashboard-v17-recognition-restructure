@@ -1,9 +1,8 @@
 import { useMemo } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import { Building2, Users, BookOpen, Heart, Trophy, Calendar, TrendingUp, BarChart3 } from 'lucide-react';
+import { Building2, Users, BookOpen, Heart, Trophy, Calendar, TrendingUp } from 'lucide-react';
 import { DeptDataProvider, useDeptDataContext } from '@/context/DeptDataProvider';
 import DeptAccessUnavailable from '@/components/DeptAccessUnavailable';
-import { PageHeader } from '@/components/ui/unified-components';
 
 // ─────────────────────────────────────────────────────────────────────────
 // KPI Card Component
