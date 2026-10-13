@@ -6,7 +6,6 @@ const DARK_BRONZE = '#8C5A22';
 
 function rowStyle(
   index: number,
-  total: number,
   minValue: number,
   rows: { department: string; value: number }[]
 ): { background?: string; color?: string } {
@@ -84,7 +83,7 @@ export default function DepartmentRankTable({ rows, showRate = true, valueLabel 
         </thead>
         <tbody>
           {sortedRows.map((r, i) => {
-            const style = rowStyle(i, sortedRows.length, minValue, sortedRows);
+            const style = rowStyle(i, minValue, sortedRows);
             return (
               <tr
                 key={r.department}

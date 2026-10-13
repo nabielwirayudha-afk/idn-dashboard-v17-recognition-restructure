@@ -7,7 +7,6 @@ const DARK_BRONZE = '#8C5A22';
 
 function rowStyle(
   index: number,
-  total: number,
   minValue: number,
   rows: { department: string; value: number }[]
 ): { background?: string; color?: string } {
@@ -79,7 +78,7 @@ export default function TotmByDepartment({ rows, allDepartments, onSelectDept }:
         </thead>
         <tbody>
           {deptRows.map((r, i) => {
-            const style = rowStyle(i, deptRows.length, minValue, deptRows);
+            const style = rowStyle(i, minValue, deptRows);
             return (
               <tr
                 key={r.department}
