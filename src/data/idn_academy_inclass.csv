@@ -1,0 +1,381 @@
+Name,Email,Dep,Location,Direct Report,Course,Date,Year,Month,Quarter,Learning Hours,Status
+Miko Nugroho,miko.nugroho@idnmedia.com,Marketing & Brand,Jakarta HQ,Krisna Nugroho,Project Management Essentials,2026-01-25,2026,1,1,2,Completed
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,Content Strategy,2025-05-20,2025,5,2,2,Completed
+Laras Yulianti,laras.yulianti@idnmedia.com,Product & Technology,Bandung,Krisna Wijaya,Leadership Foundations,2026-05-06,2026,5,2,2,No Show
+Bella Utomo,bella.utomo@idnmedia.com,Finance,Jakarta HQ,Nabila Permadi,Project Management Essentials,2025-10-26,2025,10,4,4,No Show
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,Negotiation Skills,2025-11-30,2025,11,4,2,In Progress
+Oki Rahayu,oki.rahayu@idnmedia.com,Business Development,Jakarta HQ,Farah Setiawan,People Management 101,2026-01-09,2026,1,1,1,Completed
+Rangga Wibowo,rangga.wibowo@idnmedia.com,Marketing & Brand,Surabaya,Fajar Hidayat,Public Speaking,2025-07-04,2025,7,3,4,Completed
+Lestari Wijaya,lestari.wijaya@idnmedia.com,Marketing & Brand,Remote,Agus Permadi,Negotiation Skills,2025-08-03,2025,8,3,2,In Progress
+Dewi Hidayat,dewi.hidayat@idnmedia.com,Content & Editorial,Surabaya,Miko Wibowo,Project Management Essentials,2026-02-23,2026,2,1,4,Completed
+Gita Puspita,gita.puspita@idnmedia.com,Content & Editorial,Remote,Yoga Anggraini,Leadership Foundations,2025-09-05,2025,9,3,2,Completed
+Joko Saputra,joko.saputra@idnmedia.com,Content & Editorial,Bandung,Eka Gunawan,People Management 101,2025-03-17,2025,3,1,2,Completed
+Jihan Utomo,jihan.utomo@idnmedia.com,Finance,Remote,Dian Utomo,Excel for Analysts,2026-07-02,2026,7,3,3,Completed
+Erlangga Gunawan,erlangga.gunawan@idnmedia.com,People & Culture,Remote,Kirana Kusuma,Data Storytelling,2026-07-04,2026,7,3,3,Completed
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,People Management 101,2025-12-30,2025,12,4,1.5,Completed
+Hana Utomo,hana.utomo@idnmedia.com,People & Culture,Bandung,Dewi Rahayu,Excel for Analysts,2026-02-14,2026,2,1,2,Completed
+Andi Pratama,andi.pratama@idnmedia.com,Marketing & Brand,Surabaya,Andi Permadi,Public Speaking,2025-09-22,2025,9,3,1.5,Completed
+Oki Puspita,oki.puspita@idnmedia.com,People & Culture,Surabaya,Jihan Santoso,Content Strategy,2025-08-15,2025,8,3,2,Completed
+Citra Wijaya,citra.wijaya@idnmedia.com,Marketing & Brand,Bandung,Andi Sari,Content Strategy,2026-05-28,2026,5,2,1.5,No Show
+Bimo Hidayat,bimo.hidayat@idnmedia.com,People & Culture,Jakarta HQ,Hana Sari,Excel for Analysts,2025-04-18,2025,4,2,2,No Show
+Nabila Puspita,nabila.puspita@idnmedia.com,Finance,Bandung,Fajar Wijaya,Leadership Foundations,2025-04-29,2025,4,2,4,Completed
+Dian Kusuma,dian.kusuma@idnmedia.com,Finance,Surabaya,Utami Kurniawan,Public Speaking,2026-04-12,2026,4,2,1.5,Completed
+Rangga Kusuma,rangga.kusuma@idnmedia.com,Business Development,Jakarta HQ,Oki Kusuma,Project Management Essentials,2025-04-10,2025,4,2,2,Completed
+Gita Puspita,gita.puspita@idnmedia.com,Content & Editorial,Remote,Yoga Anggraini,Data Storytelling,2025-02-15,2025,2,1,4,Completed
+Dian Kusuma,dian.kusuma@idnmedia.com,Finance,Surabaya,Utami Kurniawan,Leadership Foundations,2025-04-22,2025,4,2,4,No Show
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,Public Speaking,2026-06-13,2026,6,2,1.5,Completed
+Oki Puspita,oki.puspita@idnmedia.com,People & Culture,Surabaya,Jihan Santoso,Design Thinking,2026-03-13,2026,3,1,2,In Progress
+Putri Rahayu,putri.rahayu@idnmedia.com,Sales & Partnership,Bandung,Galih Anggraini,Excel for Analysts,2025-07-08,2025,7,3,1.5,Completed
+Laras Iriana,laras.iriana2@idnmedia.com,People & Culture,Remote,Nabila Iriana,People Management 101,2025-07-22,2025,7,3,2,Completed
+Hana Saputra,hana.saputra@idnmedia.com,Marketing & Brand,Bandung,Krisna Kusuma,Negotiation Skills,2025-08-08,2025,8,3,1.5,Completed
+Dewi Hidayat,dewi.hidayat@idnmedia.com,Content & Editorial,Surabaya,Miko Wibowo,Leadership Foundations,2025-04-15,2025,4,2,3,Completed
+Laras Yulianti,laras.yulianti@idnmedia.com,Product & Technology,Bandung,Krisna Wijaya,Negotiation Skills,2026-04-14,2026,4,2,1,Completed
+Farah Permadi,farah.permadi@idnmedia.com,Finance,Bandung,Hana Rahayu,Content Strategy,2026-06-25,2026,6,2,4,Completed
+Laras Iriana,laras.iriana2@idnmedia.com,People & Culture,Remote,Nabila Iriana,Data Storytelling,2026-02-06,2026,2,1,3,Completed
+Farah Setiawan,farah.setiawan@idnmedia.com,Content & Editorial,Remote,Dian Setiawan,Negotiation Skills,2025-06-26,2025,6,2,4,In Progress
+Citra Wijaya,citra.wijaya@idnmedia.com,Marketing & Brand,Bandung,Andi Sari,Leadership Foundations,2025-03-28,2025,3,1,4,Completed
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,Leadership Foundations,2025-11-09,2025,11,4,1,Completed
+Oki Sari,oki.sari@idnmedia.com,People & Culture,Jakarta HQ,Eka Wijaya,Excel for Analysts,2026-06-08,2026,6,2,2,Completed
+Krisna Rahayu,krisna.rahayu@idnmedia.com,People & Culture,Bandung,Jihan Prasetyo,Leadership Foundations,2026-01-28,2026,1,1,2,Completed
+Farah Sari,farah.sari@idnmedia.com,Video Production,Surabaya,Hesti Nugroho,Leadership Foundations,2025-06-27,2025,6,2,3,Completed
+Bella Santoso,bella.santoso@idnmedia.com,Business Development,Remote,Bimo Sari,Project Management Essentials,2025-07-11,2025,7,3,2,Completed
+Bella Utomo,bella.utomo2@idnmedia.com,Content & Editorial,Surabaya,Omar Wibowo,Leadership Foundations,2025-01-10,2025,1,1,2,Completed
+Miko Nugroho,miko.nugroho2@idnmedia.com,Video Production,Remote,Andi Pratama,Project Management Essentials,2026-06-02,2026,6,2,4,Completed
+Farah Permadi,farah.permadi@idnmedia.com,Finance,Bandung,Hana Rahayu,Project Management Essentials,2026-03-02,2026,3,1,4,Completed
+Nabila Puspita,nabila.puspita@idnmedia.com,Finance,Bandung,Fajar Wijaya,Negotiation Skills,2025-02-01,2025,2,1,1.5,Completed
+Vino Permadi,vino.permadi@idnmedia.com,People & Culture,Surabaya,Utami Gunawan,Leadership Foundations,2026-07-05,2026,7,3,2,In Progress
+Laras Wibowo,laras.wibowo@idnmedia.com,Finance,Remote,Made Wibowo,Public Speaking,2026-05-23,2026,5,2,3,Completed
+Krisna Kurniawan,krisna.kurniawan@idnmedia.com,Content & Editorial,Surabaya,Utami Hidayat,Content Strategy,2025-10-02,2025,10,4,3,Completed
+Eka Wijaya,eka.wijaya@idnmedia.com,People & Culture,Surabaya,Gita Puspita,Design Thinking,2026-03-28,2026,3,1,3,No Show
+Lestari Kurniawan,lestari.kurniawan@idnmedia.com,Sales & Partnership,Surabaya,Joko Santoso,Effective Communication,2025-09-11,2025,9,3,2,Completed
+Chandra Wibowo,chandra.wibowo@idnmedia.com,Video Production,Surabaya,Agus Rahayu,Data Storytelling,2025-03-31,2025,3,1,2,Completed
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,People Management 101,2025-08-03,2025,8,3,4,Completed
+Laras Iriana,laras.iriana2@idnmedia.com,People & Culture,Remote,Nabila Iriana,People Management 101,2026-03-15,2026,3,1,1.5,Completed
+Dewi Wijaya,dewi.wijaya@idnmedia.com,Business Development,Bandung,Lestari Kusuma,People Management 101,2025-07-31,2025,7,3,1,Completed
+Zahra Sari,zahra.sari@idnmedia.com,Product & Technology,Remote,Citra Santoso,Content Strategy,2026-07-06,2026,7,3,1.5,No Show
+Bimo Rahayu,bimo.rahayu@idnmedia.com,Finance,Remote,Putri Permadi,Negotiation Skills,2025-10-24,2025,10,4,3,No Show
+Krisna Iriana,krisna.iriana@idnmedia.com,Finance,Jakarta HQ,Chandra Yulianti,Excel for Analysts,2025-04-08,2025,4,2,1.5,In Progress
+Zahra Sari,zahra.sari@idnmedia.com,Product & Technology,Remote,Citra Santoso,Leadership Foundations,2025-05-10,2025,5,2,4,Completed
+Gita Prasetyo,gita.prasetyo@idnmedia.com,Video Production,Surabaya,Ivan Pratama,Excel for Analysts,2025-09-11,2025,9,3,4,Completed
+Krisna Rahayu,krisna.rahayu@idnmedia.com,People & Culture,Bandung,Jihan Prasetyo,Excel for Analysts,2025-10-03,2025,10,4,4,Completed
+Hesti Puspita,hesti.puspita@idnmedia.com,Business Development,Bandung,Krisna Permadi,Public Speaking,2025-04-06,2025,4,2,2,Completed
+Ivan Prasetyo,ivan.prasetyo@idnmedia.com,Finance,Jakarta HQ,Utami Hidayat,Content Strategy,2026-04-11,2026,4,2,2,Completed
+Joko Rahayu,joko.rahayu@idnmedia.com,Video Production,Jakarta HQ,Jihan Permadi,Content Strategy,2026-04-15,2026,4,2,4,In Progress
+Farah Sari,farah.sari@idnmedia.com,Video Production,Surabaya,Hesti Nugroho,Excel for Analysts,2026-02-12,2026,2,1,1.5,In Progress
+Gita Sari,gita.sari@idnmedia.com,Content & Editorial,Surabaya,Bella Nugroho,Negotiation Skills,2025-10-02,2025,10,4,2,Completed
+Krisna Rahayu,krisna.rahayu@idnmedia.com,People & Culture,Bandung,Jihan Prasetyo,Project Management Essentials,2025-05-14,2025,5,2,3,In Progress
+Farah Santoso,farah.santoso@idnmedia.com,Product & Technology,Surabaya,Eka Prasetyo,Project Management Essentials,2025-02-17,2025,2,1,1,Completed
+Putri Yulianti,putri.yulianti@idnmedia.com,Video Production,Bandung,Dian Iriana,Effective Communication,2026-03-28,2026,3,1,2,No Show
+Joko Hidayat,joko.hidayat@idnmedia.com,Video Production,Bandung,Wulan Utomo,Leadership Foundations,2025-07-27,2025,7,3,4,In Progress
+Gita Puspita,gita.puspita@idnmedia.com,Content & Editorial,Remote,Yoga Anggraini,Data Storytelling,2025-06-12,2025,6,2,2,Completed
+Tegar Prasetyo,tegar.prasetyo@idnmedia.com,People & Culture,Surabaya,Ivan Yulianti,Leadership Foundations,2025-03-26,2025,3,1,2,Completed
+Putri Rahayu,putri.rahayu@idnmedia.com,Sales & Partnership,Bandung,Galih Anggraini,Design Thinking,2025-11-09,2025,11,4,4,Completed
+Joko Rahayu,joko.rahayu@idnmedia.com,Video Production,Jakarta HQ,Jihan Permadi,Design Thinking,2025-04-08,2025,4,2,1,Completed
+Galih Utomo,galih.utomo@idnmedia.com,Product & Technology,Surabaya,Krisna Nugroho,Project Management Essentials,2025-08-20,2025,8,3,3,Completed
+Dian Kusuma,dian.kusuma@idnmedia.com,Finance,Surabaya,Utami Kurniawan,Leadership Foundations,2025-05-04,2025,5,2,2,Completed
+Eka Saputra,eka.saputra@idnmedia.com,Business Development,Jakarta HQ,Indra Santoso,Data Storytelling,2026-01-28,2026,1,1,1,Completed
+Ivan Prasetyo,ivan.prasetyo@idnmedia.com,Finance,Jakarta HQ,Utami Hidayat,Excel for Analysts,2025-11-03,2025,11,4,1.5,Completed
+Bella Santoso,bella.santoso@idnmedia.com,Business Development,Remote,Bimo Sari,Public Speaking,2025-05-27,2025,5,2,1,Completed
+Laras Iriana,laras.iriana2@idnmedia.com,People & Culture,Remote,Nabila Iriana,Content Strategy,2025-06-18,2025,6,2,2,Completed
+Putri Rahayu,putri.rahayu@idnmedia.com,Sales & Partnership,Bandung,Galih Anggraini,People Management 101,2025-06-05,2025,6,2,2,Completed
+Putri Puspita,putri.puspita@idnmedia.com,Sales & Partnership,Bandung,Chandra Sari,Leadership Foundations,2025-03-30,2025,3,1,1,Completed
+Citra Wijaya,citra.wijaya@idnmedia.com,Marketing & Brand,Bandung,Andi Sari,Excel for Analysts,2026-01-29,2026,1,1,2,Completed
+Bella Santoso,bella.santoso@idnmedia.com,Business Development,Remote,Bimo Sari,Data Storytelling,2025-09-11,2025,9,3,2,Completed
+Galih Yulianti,galih.yulianti@idnmedia.com,Business Development,Surabaya,Galih Pratama,Effective Communication,2025-10-19,2025,10,4,4,In Progress
+Krisna Yulianti,krisna.yulianti@idnmedia.com,Business Development,Jakarta HQ,Vino Prasetyo,Public Speaking,2025-11-05,2025,11,4,1.5,Completed
+Nadia Puspita,nadia.puspita@idnmedia.com,Content & Editorial,Bandung,Farah Anggraini,Effective Communication,2026-02-06,2026,2,1,2,In Progress
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,Data Storytelling,2026-05-22,2026,5,2,2,Completed
+Oki Anggraini,oki.anggraini@idnmedia.com,Marketing & Brand,Remote,Nabila Nugroho,Effective Communication,2025-03-14,2025,3,1,3,No Show
+Bella Utomo,bella.utomo@idnmedia.com,Finance,Jakarta HQ,Nabila Permadi,People Management 101,2025-05-16,2025,5,2,2,Completed
+Rangga Wibowo,rangga.wibowo@idnmedia.com,Marketing & Brand,Surabaya,Fajar Hidayat,Data Storytelling,2025-06-26,2025,6,2,2,Completed
+Dewi Hidayat,dewi.hidayat@idnmedia.com,Content & Editorial,Surabaya,Miko Wibowo,Design Thinking,2025-01-15,2025,1,1,2,Completed
+Krisna Hidayat,krisna.hidayat@idnmedia.com,Product & Technology,Remote,Laras Hidayat,Negotiation Skills,2026-02-12,2026,2,1,3,Completed
+Nabila Hidayat,nabila.hidayat@idnmedia.com,Sales & Partnership,Surabaya,Miko Wijaya,Excel for Analysts,2026-03-02,2026,3,1,2,Completed
+Farah Sari,farah.sari@idnmedia.com,Video Production,Surabaya,Hesti Nugroho,Leadership Foundations,2026-07-05,2026,7,3,3,Completed
+Oki Saputra,oki.saputra@idnmedia.com,People & Culture,Remote,Sari Santoso,Design Thinking,2025-03-22,2025,3,1,3,No Show
+Eka Kurniawan,eka.kurniawan@idnmedia.com,People & Culture,Surabaya,Miko Sari,Excel for Analysts,2026-07-04,2026,7,3,2,Completed
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,Excel for Analysts,2025-03-09,2025,3,1,2,Completed
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,Data Storytelling,2025-03-01,2025,3,1,1.5,No Show
+Krisna Kurniawan,krisna.kurniawan@idnmedia.com,Content & Editorial,Surabaya,Utami Hidayat,People Management 101,2026-04-10,2026,4,2,3,Completed
+Bimo Kusuma,bimo.kusuma@idnmedia.com,People & Culture,Jakarta HQ,Miko Wijaya,Effective Communication,2025-06-29,2025,6,2,1,Completed
+Citra Saputra,citra.saputra@idnmedia.com,Sales & Partnership,Bandung,Made Utomo,Content Strategy,2025-06-17,2025,6,2,2,Completed
+Dewi Kusuma,dewi.kusuma@idnmedia.com,Video Production,Surabaya,Rangga Rahayu,Leadership Foundations,2025-06-20,2025,6,2,2,Completed
+Laras Iriana,laras.iriana@idnmedia.com,Content & Editorial,Jakarta HQ,Joko Utomo,Content Strategy,2025-05-01,2025,5,2,1,In Progress
+Laras Iriana,laras.iriana@idnmedia.com,Content & Editorial,Jakarta HQ,Joko Utomo,Negotiation Skills,2026-06-21,2026,6,2,1,Completed
+Krisna Rahayu,krisna.rahayu@idnmedia.com,People & Culture,Bandung,Jihan Prasetyo,Project Management Essentials,2025-03-20,2025,3,1,2,Completed
+Krisna Hidayat,krisna.hidayat@idnmedia.com,Product & Technology,Remote,Laras Hidayat,Leadership Foundations,2026-05-27,2026,5,2,3,Completed
+Tegar Prasetyo,tegar.prasetyo@idnmedia.com,People & Culture,Surabaya,Ivan Yulianti,Data Storytelling,2025-04-16,2025,4,2,3,Completed
+Krisna Iriana,krisna.iriana@idnmedia.com,Finance,Jakarta HQ,Chandra Yulianti,Effective Communication,2025-01-03,2025,1,1,1,Completed
+Rangga Kusuma,rangga.kusuma@idnmedia.com,Business Development,Jakarta HQ,Oki Kusuma,Leadership Foundations,2026-01-08,2026,1,1,2,Completed
+Farah Utomo,farah.utomo@idnmedia.com,Sales & Partnership,Remote,Prita Santoso,Excel for Analysts,2026-07-21,2026,7,3,4,Completed
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,Content Strategy,2026-03-03,2026,3,1,4,Completed
+Hesti Puspita,hesti.puspita@idnmedia.com,Business Development,Bandung,Krisna Permadi,Public Speaking,2026-01-17,2026,1,1,1,Completed
+Farah Santoso,farah.santoso@idnmedia.com,Product & Technology,Surabaya,Eka Prasetyo,Public Speaking,2025-07-03,2025,7,3,1.5,No Show
+Jihan Utomo,jihan.utomo@idnmedia.com,Finance,Remote,Dian Utomo,Negotiation Skills,2025-03-12,2025,3,1,2,Completed
+Oki Saputra,oki.saputra@idnmedia.com,People & Culture,Remote,Sari Santoso,Public Speaking,2025-12-02,2025,12,4,1,Completed
+Ivan Prasetyo,ivan.prasetyo@idnmedia.com,Finance,Jakarta HQ,Utami Hidayat,People Management 101,2025-07-25,2025,7,3,2,In Progress
+Miko Prasetyo,miko.prasetyo@idnmedia.com,Content & Editorial,Jakarta HQ,Rangga Kusuma,Content Strategy,2025-09-06,2025,9,3,2,Completed
+Gita Sari,gita.sari@idnmedia.com,Content & Editorial,Surabaya,Bella Nugroho,Public Speaking,2025-07-20,2025,7,3,4,Completed
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,Excel for Analysts,2025-06-04,2025,6,2,1,Completed
+Rangga Wibowo,rangga.wibowo@idnmedia.com,Marketing & Brand,Surabaya,Fajar Hidayat,Effective Communication,2025-12-21,2025,12,4,4,No Show
+Hana Saputra,hana.saputra@idnmedia.com,Marketing & Brand,Bandung,Krisna Kusuma,Negotiation Skills,2026-01-21,2026,1,1,4,Completed
+Galih Gunawan,galih.gunawan@idnmedia.com,Video Production,Surabaya,Sari Gunawan,Project Management Essentials,2025-09-01,2025,9,3,2,No Show
+Oki Sari,oki.sari@idnmedia.com,People & Culture,Jakarta HQ,Eka Wijaya,Effective Communication,2025-10-14,2025,10,4,1,No Show
+Dian Santoso,dian.santoso@idnmedia.com,Business Development,Bandung,Sari Prasetyo,Content Strategy,2026-02-27,2026,2,1,4,Completed
+Nabila Puspita,nabila.puspita@idnmedia.com,Finance,Bandung,Fajar Wijaya,Leadership Foundations,2025-04-08,2025,4,2,3,Completed
+Oki Rahayu,oki.rahayu@idnmedia.com,Business Development,Jakarta HQ,Farah Setiawan,People Management 101,2025-03-18,2025,3,1,3,Completed
+Krisna Yulianti,krisna.yulianti@idnmedia.com,Business Development,Jakarta HQ,Vino Prasetyo,Negotiation Skills,2025-05-14,2025,5,2,1.5,Completed
+Bella Utomo,bella.utomo@idnmedia.com,Finance,Jakarta HQ,Nabila Permadi,Content Strategy,2026-02-07,2026,2,1,4,Completed
+Laras Iriana,laras.iriana@idnmedia.com,Content & Editorial,Jakarta HQ,Joko Utomo,Design Thinking,2025-08-28,2025,8,3,1,Completed
+Gita Nugroho,gita.nugroho@idnmedia.com,Marketing & Brand,Bandung,Krisna Setiawan,Data Storytelling,2025-04-22,2025,4,2,1.5,Completed
+Lestari Wijaya,lestari.wijaya@idnmedia.com,Marketing & Brand,Remote,Agus Permadi,Data Storytelling,2025-11-18,2025,11,4,2,Completed
+Dewi Wijaya,dewi.wijaya@idnmedia.com,Business Development,Bandung,Lestari Kusuma,Project Management Essentials,2026-04-08,2026,4,2,2,Completed
+Putri Sari,putri.sari@idnmedia.com,Sales & Partnership,Jakarta HQ,Krisna Setiawan,Negotiation Skills,2025-04-03,2025,4,2,1.5,In Progress
+Bella Yulianti,bella.yulianti@idnmedia.com,Sales & Partnership,Jakarta HQ,Fajar Hidayat,Content Strategy,2025-02-11,2025,2,1,1.5,Completed
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,Public Speaking,2025-12-31,2025,12,4,2,Completed
+Gita Puspita,gita.puspita@idnmedia.com,Content & Editorial,Remote,Yoga Anggraini,Effective Communication,2025-09-24,2025,9,3,1.5,No Show
+Omar Hidayat,omar.hidayat@idnmedia.com,Business Development,Bandung,Wulan Puspita,Public Speaking,2026-07-24,2026,7,3,4,Completed
+Lestari Wijaya,lestari.wijaya@idnmedia.com,Marketing & Brand,Remote,Agus Permadi,Data Storytelling,2025-04-15,2025,4,2,1.5,Completed
+Vino Permadi,vino.permadi@idnmedia.com,People & Culture,Surabaya,Utami Gunawan,Excel for Analysts,2025-05-14,2025,5,2,1.5,Completed
+Putri Rahayu,putri.rahayu@idnmedia.com,Sales & Partnership,Bandung,Galih Anggraini,People Management 101,2025-03-28,2025,3,1,3,Completed
+Hesti Puspita,hesti.puspita@idnmedia.com,Business Development,Bandung,Krisna Permadi,Design Thinking,2025-01-23,2025,1,1,1,In Progress
+Galih Saputra,galih.saputra@idnmedia.com,Finance,Surabaya,Chandra Utomo,Content Strategy,2025-05-12,2025,5,2,1,Completed
+Lestari Wijaya,lestari.wijaya@idnmedia.com,Marketing & Brand,Remote,Agus Permadi,People Management 101,2025-02-21,2025,2,1,1.5,Completed
+Oki Rahayu,oki.rahayu@idnmedia.com,Business Development,Jakarta HQ,Farah Setiawan,Excel for Analysts,2026-05-24,2026,5,2,1,Completed
+Krisna Gunawan,krisna.gunawan@idnmedia.com,Product & Technology,Remote,Eka Gunawan,Leadership Foundations,2025-12-29,2025,12,4,1.5,Completed
+Omar Hidayat,omar.hidayat@idnmedia.com,Business Development,Bandung,Wulan Puspita,People Management 101,2025-06-02,2025,6,2,1,Completed
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,Excel for Analysts,2025-10-30,2025,10,4,2,In Progress
+Bimo Hidayat,bimo.hidayat@idnmedia.com,People & Culture,Jakarta HQ,Hana Sari,Negotiation Skills,2025-03-04,2025,3,1,1,Completed
+Sari Gunawan,sari.gunawan@idnmedia.com,Sales & Partnership,Surabaya,Krisna Kusuma,Public Speaking,2025-07-24,2025,7,3,4,Completed
+Rangga Wibowo,rangga.wibowo@idnmedia.com,Marketing & Brand,Surabaya,Fajar Hidayat,Content Strategy,2025-01-20,2025,1,1,2,Completed
+Farah Permadi,farah.permadi@idnmedia.com,Finance,Bandung,Hana Rahayu,Public Speaking,2025-12-19,2025,12,4,3,Completed
+Laras Iriana,laras.iriana@idnmedia.com,Content & Editorial,Jakarta HQ,Joko Utomo,Content Strategy,2025-07-04,2025,7,3,1,Completed
+Nadia Wibowo,nadia.wibowo@idnmedia.com,Sales & Partnership,Jakarta HQ,Omar Permadi,Project Management Essentials,2025-10-15,2025,10,4,1,Completed
+Gita Nugroho,gita.nugroho@idnmedia.com,Marketing & Brand,Bandung,Krisna Setiawan,Data Storytelling,2025-08-27,2025,8,3,1.5,Completed
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,Effective Communication,2025-09-30,2025,9,3,3,Completed
+Vino Permadi,vino.permadi@idnmedia.com,People & Culture,Surabaya,Utami Gunawan,Leadership Foundations,2026-02-02,2026,2,1,2,Completed
+Citra Wijaya,citra.wijaya@idnmedia.com,Marketing & Brand,Bandung,Andi Sari,Content Strategy,2025-11-22,2025,11,4,4,In Progress
+Nadia Wibowo,nadia.wibowo@idnmedia.com,Sales & Partnership,Jakarta HQ,Omar Permadi,People Management 101,2025-12-27,2025,12,4,3,Completed
+Nadia Puspita,nadia.puspita@idnmedia.com,Content & Editorial,Bandung,Farah Anggraini,Negotiation Skills,2026-05-20,2026,5,2,3,Completed
+Farah Utomo,farah.utomo@idnmedia.com,Sales & Partnership,Remote,Prita Santoso,Design Thinking,2025-04-03,2025,4,2,1,Completed
+Oki Gunawan,oki.gunawan@idnmedia.com,Marketing & Brand,Jakarta HQ,Wulan Permadi,Effective Communication,2026-06-24,2026,6,2,2,Completed
+Laras Iriana,laras.iriana2@idnmedia.com,People & Culture,Remote,Nabila Iriana,Content Strategy,2025-07-26,2025,7,3,1.5,Completed
+Gita Prasetyo,gita.prasetyo@idnmedia.com,Video Production,Surabaya,Ivan Pratama,Leadership Foundations,2025-03-02,2025,3,1,1,Completed
+Oki Sari,oki.sari@idnmedia.com,People & Culture,Jakarta HQ,Eka Wijaya,Content Strategy,2025-04-24,2025,4,2,3,No Show
+Ivan Prasetyo,ivan.prasetyo@idnmedia.com,Finance,Jakarta HQ,Utami Hidayat,Data Storytelling,2026-02-10,2026,2,1,3,Completed
+Gita Prasetyo,gita.prasetyo@idnmedia.com,Video Production,Surabaya,Ivan Pratama,Excel for Analysts,2025-05-20,2025,5,2,1.5,In Progress
+Farah Permadi,farah.permadi@idnmedia.com,Finance,Bandung,Hana Rahayu,Public Speaking,2025-11-21,2025,11,4,1.5,Completed
+Laras Iriana,laras.iriana2@idnmedia.com,People & Culture,Remote,Nabila Iriana,People Management 101,2026-01-01,2026,1,1,1.5,In Progress
+Joko Saputra,joko.saputra@idnmedia.com,Content & Editorial,Bandung,Eka Gunawan,Negotiation Skills,2025-11-11,2025,11,4,4,Completed
+Hana Saputra,hana.saputra@idnmedia.com,Marketing & Brand,Bandung,Krisna Kusuma,Effective Communication,2026-02-05,2026,2,1,3,Completed
+Bella Utomo,bella.utomo@idnmedia.com,Finance,Jakarta HQ,Nabila Permadi,People Management 101,2025-08-15,2025,8,3,4,Completed
+Gita Sari,gita.sari@idnmedia.com,Content & Editorial,Surabaya,Bella Nugroho,Data Storytelling,2025-05-25,2025,5,2,2,Completed
+Bella Utomo,bella.utomo@idnmedia.com,Finance,Jakarta HQ,Nabila Permadi,Data Storytelling,2025-06-21,2025,6,2,4,In Progress
+Bimo Kusuma,bimo.kusuma@idnmedia.com,People & Culture,Jakarta HQ,Miko Wijaya,Effective Communication,2025-12-10,2025,12,4,2,Completed
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,Negotiation Skills,2025-03-11,2025,3,1,2,In Progress
+Hana Saputra,hana.saputra@idnmedia.com,Marketing & Brand,Bandung,Krisna Kusuma,Project Management Essentials,2025-02-19,2025,2,1,2,Completed
+Dewi Pratama,dewi.pratama@idnmedia.com,Content & Editorial,Remote,Putri Nugroho,Excel for Analysts,2026-02-28,2026,2,1,2,Completed
+Joko Saputra,joko.saputra@idnmedia.com,Content & Editorial,Bandung,Eka Gunawan,People Management 101,2025-04-14,2025,4,2,2,Completed
+Vino Permadi,vino.permadi@idnmedia.com,People & Culture,Surabaya,Utami Gunawan,Data Storytelling,2025-06-16,2025,6,2,2,In Progress
+Farah Utomo,farah.utomo@idnmedia.com,Sales & Partnership,Remote,Prita Santoso,Content Strategy,2025-10-29,2025,10,4,1,Completed
+Lestari Kurniawan,lestari.kurniawan@idnmedia.com,Sales & Partnership,Surabaya,Joko Santoso,Leadership Foundations,2025-03-17,2025,3,1,2,In Progress
+Putri Yulianti,putri.yulianti@idnmedia.com,Video Production,Bandung,Dian Iriana,Data Storytelling,2025-03-18,2025,3,1,3,Completed
+Laras Iriana,laras.iriana2@idnmedia.com,People & Culture,Remote,Nabila Iriana,Effective Communication,2026-05-10,2026,5,2,4,Completed
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,Excel for Analysts,2025-06-18,2025,6,2,3,Completed
+Andi Pratama,andi.pratama@idnmedia.com,Marketing & Brand,Surabaya,Andi Permadi,Design Thinking,2025-12-06,2025,12,4,1.5,Completed
+Hesti Utomo,hesti.utomo@idnmedia.com,People & Culture,Remote,Bimo Kusuma,Negotiation Skills,2026-07-08,2026,7,3,2,Completed
+Andi Pratama,andi.pratama@idnmedia.com,Marketing & Brand,Surabaya,Andi Permadi,People Management 101,2025-02-20,2025,2,1,2,Completed
+Farah Permadi,farah.permadi@idnmedia.com,Finance,Bandung,Hana Rahayu,Content Strategy,2025-06-07,2025,6,2,1,Completed
+Joko Rahayu,joko.rahayu@idnmedia.com,Video Production,Jakarta HQ,Jihan Permadi,People Management 101,2025-10-29,2025,10,4,4,Completed
+Andi Pratama,andi.pratama@idnmedia.com,Marketing & Brand,Surabaya,Andi Permadi,Leadership Foundations,2025-01-27,2025,1,1,1.5,Completed
+Nabila Puspita,nabila.puspita@idnmedia.com,Finance,Bandung,Fajar Wijaya,Negotiation Skills,2026-04-30,2026,4,2,1,In Progress
+Rangga Kusuma,rangga.kusuma@idnmedia.com,Business Development,Jakarta HQ,Oki Kusuma,Negotiation Skills,2026-05-16,2026,5,2,4,Completed
+Rangga Wibowo,rangga.wibowo@idnmedia.com,Marketing & Brand,Surabaya,Fajar Hidayat,Content Strategy,2026-02-01,2026,2,1,1.5,In Progress
+Ivan Prasetyo,ivan.prasetyo@idnmedia.com,Finance,Jakarta HQ,Utami Hidayat,Effective Communication,2025-07-11,2025,7,3,2,Completed
+Lestari Wijaya,lestari.wijaya@idnmedia.com,Marketing & Brand,Remote,Agus Permadi,Negotiation Skills,2025-09-27,2025,9,3,1.5,Completed
+Eka Kurniawan,eka.kurniawan@idnmedia.com,People & Culture,Surabaya,Miko Sari,Content Strategy,2025-04-10,2025,4,2,1,In Progress
+Kirana Yulianti,kirana.yulianti@idnmedia.com,Business Development,Surabaya,Jihan Yulianti,Effective Communication,2025-08-21,2025,8,3,3,In Progress
+Dian Santoso,dian.santoso@idnmedia.com,Business Development,Bandung,Sari Prasetyo,Project Management Essentials,2026-03-05,2026,3,1,3,Completed
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,Data Storytelling,2026-05-03,2026,5,2,2,Completed
+Farah Utomo,farah.utomo@idnmedia.com,Sales & Partnership,Remote,Prita Santoso,Public Speaking,2026-05-30,2026,5,2,3,In Progress
+Miko Prasetyo,miko.prasetyo@idnmedia.com,Content & Editorial,Jakarta HQ,Rangga Kusuma,Project Management Essentials,2025-05-31,2025,5,2,1,Completed
+Dewi Pratama,dewi.pratama@idnmedia.com,Content & Editorial,Remote,Putri Nugroho,Leadership Foundations,2025-08-05,2025,8,3,1.5,Completed
+Nabila Puspita,nabila.puspita@idnmedia.com,Finance,Bandung,Fajar Wijaya,Leadership Foundations,2026-03-22,2026,3,1,1.5,In Progress
+Dewi Kusuma,dewi.kusuma@idnmedia.com,Video Production,Surabaya,Rangga Rahayu,Data Storytelling,2025-11-24,2025,11,4,4,Completed
+Oki Puspita,oki.puspita@idnmedia.com,People & Culture,Surabaya,Jihan Santoso,Content Strategy,2026-02-11,2026,2,1,3,In Progress
+Dian Santoso,dian.santoso@idnmedia.com,Business Development,Bandung,Sari Prasetyo,People Management 101,2026-04-15,2026,4,2,1,Completed
+Sari Gunawan,sari.gunawan@idnmedia.com,Sales & Partnership,Surabaya,Krisna Kusuma,Leadership Foundations,2025-04-26,2025,4,2,2,Completed
+Citra Wijaya,citra.wijaya@idnmedia.com,Marketing & Brand,Bandung,Andi Sari,People Management 101,2025-04-13,2025,4,2,1,Completed
+Putri Pratama,putri.pratama@idnmedia.com,Finance,Remote,Kirana Rahayu,Excel for Analysts,2026-07-03,2026,7,3,2,Completed
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,People Management 101,2026-05-13,2026,5,2,3,Completed
+Krisna Gunawan,krisna.gunawan@idnmedia.com,Product & Technology,Remote,Eka Gunawan,Leadership Foundations,2025-10-10,2025,10,4,2,Completed
+Jihan Utomo,jihan.utomo@idnmedia.com,Finance,Remote,Dian Utomo,Content Strategy,2025-02-09,2025,2,1,2,Completed
+Farah Santoso,farah.santoso@idnmedia.com,Product & Technology,Surabaya,Eka Prasetyo,Content Strategy,2026-05-02,2026,5,2,2,Completed
+Gita Puspita,gita.puspita@idnmedia.com,Content & Editorial,Remote,Yoga Anggraini,Project Management Essentials,2025-11-15,2025,11,4,2,In Progress
+Andi Pratama,andi.pratama@idnmedia.com,Marketing & Brand,Surabaya,Andi Permadi,Negotiation Skills,2025-08-22,2025,8,3,1.5,No Show
+Galih Saputra,galih.saputra@idnmedia.com,Finance,Surabaya,Chandra Utomo,Excel for Analysts,2025-11-25,2025,11,4,2,Completed
+Joko Rahayu,joko.rahayu@idnmedia.com,Video Production,Jakarta HQ,Jihan Permadi,Design Thinking,2025-07-12,2025,7,3,2,In Progress
+Kirana Yulianti,kirana.yulianti@idnmedia.com,Business Development,Surabaya,Jihan Yulianti,Content Strategy,2026-05-12,2026,5,2,3,In Progress
+Krisna Iriana,krisna.iriana@idnmedia.com,Finance,Jakarta HQ,Chandra Yulianti,Negotiation Skills,2025-06-12,2025,6,2,1,Completed
+Jihan Utomo,jihan.utomo@idnmedia.com,Finance,Remote,Dian Utomo,People Management 101,2025-05-19,2025,5,2,3,Completed
+Nadia Puspita,nadia.puspita@idnmedia.com,Content & Editorial,Bandung,Farah Anggraini,Design Thinking,2025-07-25,2025,7,3,1,Completed
+Farah Santoso,farah.santoso@idnmedia.com,Product & Technology,Surabaya,Eka Prasetyo,Design Thinking,2026-01-05,2026,1,1,4,Completed
+Lestari Wijaya,lestari.wijaya@idnmedia.com,Marketing & Brand,Remote,Agus Permadi,Data Storytelling,2026-06-02,2026,6,2,2,Completed
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,People Management 101,2026-01-17,2026,1,1,2,Completed
+Rangga Kusuma,rangga.kusuma@idnmedia.com,Business Development,Jakarta HQ,Oki Kusuma,Content Strategy,2026-07-19,2026,7,3,2,Completed
+Dewi Kusuma,dewi.kusuma@idnmedia.com,Video Production,Surabaya,Rangga Rahayu,Effective Communication,2025-04-03,2025,4,2,2,Completed
+Putri Yulianti,putri.yulianti@idnmedia.com,Video Production,Bandung,Dian Iriana,Design Thinking,2025-08-08,2025,8,3,1.5,Completed
+Laras Iriana,laras.iriana@idnmedia.com,Content & Editorial,Jakarta HQ,Joko Utomo,Effective Communication,2026-02-24,2026,2,1,3,In Progress
+Citra Saputra,citra.saputra@idnmedia.com,Sales & Partnership,Bandung,Made Utomo,Leadership Foundations,2026-05-01,2026,5,2,1.5,Completed
+Citra Saputra,citra.saputra@idnmedia.com,Sales & Partnership,Bandung,Made Utomo,People Management 101,2025-08-18,2025,8,3,2,In Progress
+Oki Saputra,oki.saputra@idnmedia.com,People & Culture,Remote,Sari Santoso,Excel for Analysts,2025-10-09,2025,10,4,2,In Progress
+Farah Setiawan,farah.setiawan@idnmedia.com,Content & Editorial,Remote,Dian Setiawan,Project Management Essentials,2025-09-16,2025,9,3,1.5,Completed
+Dian Santoso,dian.santoso@idnmedia.com,Business Development,Bandung,Sari Prasetyo,Data Storytelling,2026-02-11,2026,2,1,3,Completed
+Krisna Yulianti,krisna.yulianti@idnmedia.com,Business Development,Jakarta HQ,Vino Prasetyo,People Management 101,2026-01-19,2026,1,1,3,Completed
+Gita Puspita,gita.puspita@idnmedia.com,Content & Editorial,Remote,Yoga Anggraini,Data Storytelling,2025-04-21,2025,4,2,2,Completed
+Zahra Sari,zahra.sari@idnmedia.com,Product & Technology,Remote,Citra Santoso,Negotiation Skills,2025-11-29,2025,11,4,2,Completed
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,Leadership Foundations,2025-11-02,2025,11,4,1.5,Completed
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,Excel for Analysts,2025-02-28,2025,2,1,3,Completed
+Bella Santoso,bella.santoso@idnmedia.com,Business Development,Remote,Bimo Sari,Project Management Essentials,2025-01-27,2025,1,1,4,No Show
+Dewi Kusuma,dewi.kusuma@idnmedia.com,Video Production,Surabaya,Rangga Rahayu,Excel for Analysts,2026-03-05,2026,3,1,2,Completed
+Gita Nugroho,gita.nugroho@idnmedia.com,Marketing & Brand,Bandung,Krisna Setiawan,Design Thinking,2025-07-14,2025,7,3,2,Completed
+Oki Anggraini,oki.anggraini@idnmedia.com,Marketing & Brand,Remote,Nabila Nugroho,Content Strategy,2026-05-03,2026,5,2,4,Completed
+Dewi Pratama,dewi.pratama@idnmedia.com,Content & Editorial,Remote,Putri Nugroho,Negotiation Skills,2026-07-26,2026,7,3,1.5,Completed
+Galih Utomo,galih.utomo@idnmedia.com,Product & Technology,Surabaya,Krisna Nugroho,Public Speaking,2025-09-22,2025,9,3,4,Completed
+Gita Wijaya,gita.wijaya@idnmedia.com,Content & Editorial,Jakarta HQ,Chandra Yulianti,Data Storytelling,2025-12-10,2025,12,4,4,Completed
+Vino Permadi,vino.permadi@idnmedia.com,People & Culture,Surabaya,Utami Gunawan,Content Strategy,2025-11-11,2025,11,4,2,Completed
+Gita Nugroho,gita.nugroho@idnmedia.com,Marketing & Brand,Bandung,Krisna Setiawan,Data Storytelling,2025-10-29,2025,10,4,2,Completed
+Oki Anggraini,oki.anggraini@idnmedia.com,Marketing & Brand,Remote,Nabila Nugroho,Design Thinking,2025-03-14,2025,3,1,2,Completed
+Joko Saputra,joko.saputra@idnmedia.com,Content & Editorial,Bandung,Eka Gunawan,Excel for Analysts,2026-06-27,2026,6,2,2,Completed
+Eka Kurniawan,eka.kurniawan@idnmedia.com,People & Culture,Surabaya,Miko Sari,Content Strategy,2025-05-21,2025,5,2,1.5,Completed
+Laras Wibowo,laras.wibowo@idnmedia.com,Finance,Remote,Made Wibowo,Content Strategy,2026-04-14,2026,4,2,1.5,In Progress
+Gita Wijaya,gita.wijaya@idnmedia.com,Content & Editorial,Jakarta HQ,Chandra Yulianti,Content Strategy,2025-03-24,2025,3,1,2,Completed
+Krisna Gunawan,krisna.gunawan@idnmedia.com,Product & Technology,Remote,Eka Gunawan,Effective Communication,2025-11-17,2025,11,4,4,Completed
+Zahra Sari,zahra.sari@idnmedia.com,Product & Technology,Remote,Citra Santoso,People Management 101,2025-08-03,2025,8,3,1.5,Completed
+Farah Permadi,farah.permadi@idnmedia.com,Finance,Bandung,Hana Rahayu,People Management 101,2025-04-01,2025,4,2,1.5,Completed
+Joko Hidayat,joko.hidayat@idnmedia.com,Video Production,Bandung,Wulan Utomo,Project Management Essentials,2026-02-18,2026,2,1,2,Completed
+Farah Utomo,farah.utomo@idnmedia.com,Sales & Partnership,Remote,Prita Santoso,Content Strategy,2026-07-01,2026,7,3,1.5,No Show
+Gita Prasetyo,gita.prasetyo@idnmedia.com,Video Production,Surabaya,Ivan Pratama,Effective Communication,2026-06-28,2026,6,2,1.5,Completed
+Putri Rahayu,putri.rahayu@idnmedia.com,Sales & Partnership,Bandung,Galih Anggraini,Content Strategy,2025-09-12,2025,9,3,1.5,Completed
+Lestari Kurniawan,lestari.kurniawan@idnmedia.com,Sales & Partnership,Surabaya,Joko Santoso,People Management 101,2026-01-28,2026,1,1,3,Completed
+Dewi Hidayat,dewi.hidayat@idnmedia.com,Content & Editorial,Surabaya,Miko Wibowo,Negotiation Skills,2025-02-16,2025,2,1,2,Completed
+Dian Santoso,dian.santoso@idnmedia.com,Business Development,Bandung,Sari Prasetyo,Excel for Analysts,2026-06-21,2026,6,2,2,In Progress
+Bella Santoso,bella.santoso@idnmedia.com,Business Development,Remote,Bimo Sari,Content Strategy,2025-12-17,2025,12,4,2,Completed
+Dewi Pratama,dewi.pratama@idnmedia.com,Content & Editorial,Remote,Putri Nugroho,Design Thinking,2026-02-18,2026,2,1,1,Completed
+Galih Utomo,galih.utomo@idnmedia.com,Product & Technology,Surabaya,Krisna Nugroho,Effective Communication,2025-08-05,2025,8,3,4,Completed
+Dewi Pratama,dewi.pratama@idnmedia.com,Content & Editorial,Remote,Putri Nugroho,Effective Communication,2025-05-07,2025,5,2,2,Completed
+Oki Anggraini,oki.anggraini@idnmedia.com,Marketing & Brand,Remote,Nabila Nugroho,People Management 101,2025-09-19,2025,9,3,3,Completed
+Farah Santoso,farah.santoso@idnmedia.com,Product & Technology,Surabaya,Eka Prasetyo,Effective Communication,2025-04-21,2025,4,2,4,Completed
+Krisna Kurniawan,krisna.kurniawan@idnmedia.com,Content & Editorial,Surabaya,Utami Hidayat,Excel for Analysts,2026-03-03,2026,3,1,2,Completed
+Tegar Prasetyo,tegar.prasetyo@idnmedia.com,People & Culture,Surabaya,Ivan Yulianti,Leadership Foundations,2026-05-01,2026,5,2,4,Completed
+Putri Rahayu,putri.rahayu@idnmedia.com,Sales & Partnership,Bandung,Galih Anggraini,Excel for Analysts,2025-01-10,2025,1,1,2,Completed
+Krisna Yulianti,krisna.yulianti@idnmedia.com,Business Development,Jakarta HQ,Vino Prasetyo,People Management 101,2026-06-17,2026,6,2,2,Completed
+Bella Santoso,bella.santoso@idnmedia.com,Business Development,Remote,Bimo Sari,Public Speaking,2026-03-05,2026,3,1,1,Completed
+Putri Sari,putri.sari@idnmedia.com,Sales & Partnership,Jakarta HQ,Krisna Setiawan,Data Storytelling,2025-10-17,2025,10,4,1,Completed
+Bella Yulianti,bella.yulianti@idnmedia.com,Sales & Partnership,Jakarta HQ,Fajar Hidayat,Public Speaking,2025-07-24,2025,7,3,2,No Show
+Bella Utomo,bella.utomo2@idnmedia.com,Content & Editorial,Surabaya,Omar Wibowo,Leadership Foundations,2026-02-24,2026,2,1,2,Completed
+Gita Sari,gita.sari@idnmedia.com,Content & Editorial,Surabaya,Bella Nugroho,Project Management Essentials,2025-08-01,2025,8,3,4,Completed
+Hana Saputra,hana.saputra@idnmedia.com,Marketing & Brand,Bandung,Krisna Kusuma,Data Storytelling,2025-01-14,2025,1,1,4,In Progress
+Krisna Rahayu,krisna.rahayu@idnmedia.com,People & Culture,Bandung,Jihan Prasetyo,Data Storytelling,2026-05-21,2026,5,2,1.5,Completed
+Hesti Puspita,hesti.puspita@idnmedia.com,Business Development,Bandung,Krisna Permadi,Design Thinking,2025-04-14,2025,4,2,2,Completed
+Bimo Rahayu,bimo.rahayu@idnmedia.com,Finance,Remote,Putri Permadi,Effective Communication,2025-09-28,2025,9,3,2,Completed
+Krisna Gunawan,krisna.gunawan@idnmedia.com,Product & Technology,Remote,Eka Gunawan,Content Strategy,2025-02-10,2025,2,1,2,In Progress
+Bella Utomo,bella.utomo@idnmedia.com,Finance,Jakarta HQ,Nabila Permadi,Data Storytelling,2026-03-13,2026,3,1,4,Completed
+Eka Wijaya,eka.wijaya@idnmedia.com,People & Culture,Surabaya,Gita Puspita,Leadership Foundations,2025-01-10,2025,1,1,1.5,Completed
+Galih Saputra,galih.saputra@idnmedia.com,Finance,Surabaya,Chandra Utomo,Data Storytelling,2025-10-02,2025,10,4,4,Completed
+Dian Kusuma,dian.kusuma@idnmedia.com,Finance,Surabaya,Utami Kurniawan,Excel for Analysts,2025-07-07,2025,7,3,1,Completed
+Farah Setiawan,farah.setiawan@idnmedia.com,Content & Editorial,Remote,Dian Setiawan,Project Management Essentials,2025-10-06,2025,10,4,2,In Progress
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,Leadership Foundations,2025-06-20,2025,6,2,1,Completed
+Krisna Hidayat,krisna.hidayat@idnmedia.com,Product & Technology,Remote,Laras Hidayat,Excel for Analysts,2025-06-13,2025,6,2,1,In Progress
+Bimo Hidayat,bimo.hidayat@idnmedia.com,People & Culture,Jakarta HQ,Hana Sari,People Management 101,2026-03-25,2026,3,1,1.5,Completed
+Bella Utomo,bella.utomo2@idnmedia.com,Content & Editorial,Surabaya,Omar Wibowo,Leadership Foundations,2025-01-30,2025,1,1,4,Completed
+Farah Permadi,farah.permadi@idnmedia.com,Finance,Bandung,Hana Rahayu,Project Management Essentials,2025-04-26,2025,4,2,2,Completed
+Dewi Kusuma,dewi.kusuma@idnmedia.com,Video Production,Surabaya,Rangga Rahayu,Public Speaking,2025-11-18,2025,11,4,1,Completed
+Krisna Rahayu,krisna.rahayu@idnmedia.com,People & Culture,Bandung,Jihan Prasetyo,Content Strategy,2025-08-18,2025,8,3,4,Completed
+Miko Prasetyo,miko.prasetyo@idnmedia.com,Content & Editorial,Jakarta HQ,Rangga Kusuma,Design Thinking,2025-04-08,2025,4,2,2,Completed
+Krisna Yulianti,krisna.yulianti@idnmedia.com,Business Development,Jakarta HQ,Vino Prasetyo,Public Speaking,2026-01-30,2026,1,1,1.5,In Progress
+Laras Iriana,laras.iriana2@idnmedia.com,People & Culture,Remote,Nabila Iriana,Leadership Foundations,2025-02-25,2025,2,1,1,Completed
+Rangga Kusuma,rangga.kusuma@idnmedia.com,Business Development,Jakarta HQ,Oki Kusuma,Data Storytelling,2026-05-23,2026,5,2,1.5,Completed
+Gita Prasetyo,gita.prasetyo@idnmedia.com,Video Production,Surabaya,Ivan Pratama,Negotiation Skills,2025-09-04,2025,9,3,2,Completed
+Vino Permadi,vino.permadi@idnmedia.com,People & Culture,Surabaya,Utami Gunawan,Excel for Analysts,2026-07-18,2026,7,3,4,Completed
+Putri Santoso,putri.santoso@idnmedia.com,Marketing & Brand,Bandung,Prita Kurniawan,Project Management Essentials,2025-03-22,2025,3,1,2,In Progress
+Omar Hidayat,omar.hidayat@idnmedia.com,Business Development,Bandung,Wulan Puspita,Project Management Essentials,2025-04-01,2025,4,2,2,Completed
+Gita Sari,gita.sari@idnmedia.com,Content & Editorial,Surabaya,Bella Nugroho,Excel for Analysts,2025-01-19,2025,1,1,1,Completed
+Oki Puspita,oki.puspita@idnmedia.com,People & Culture,Surabaya,Jihan Santoso,Data Storytelling,2026-07-17,2026,7,3,1,In Progress
+Miko Prasetyo,miko.prasetyo@idnmedia.com,Content & Editorial,Jakarta HQ,Rangga Kusuma,Public Speaking,2025-11-08,2025,11,4,3,Completed
+Bimo Kusuma,bimo.kusuma@idnmedia.com,People & Culture,Jakarta HQ,Miko Wijaya,Content Strategy,2026-04-13,2026,4,2,2,In Progress
+Vino Permadi,vino.permadi@idnmedia.com,People & Culture,Surabaya,Utami Gunawan,Public Speaking,2026-04-11,2026,4,2,2,Completed
+Galih Yulianti,galih.yulianti@idnmedia.com,Business Development,Surabaya,Galih Pratama,Content Strategy,2026-04-30,2026,4,2,4,Completed
+Krisna Kurniawan,krisna.kurniawan@idnmedia.com,Content & Editorial,Surabaya,Utami Hidayat,Design Thinking,2025-04-10,2025,4,2,4,Completed
+Bella Utomo,bella.utomo2@idnmedia.com,Content & Editorial,Surabaya,Omar Wibowo,Public Speaking,2025-10-26,2025,10,4,3,Completed
+Lestari Kurniawan,lestari.kurniawan@idnmedia.com,Sales & Partnership,Surabaya,Joko Santoso,Project Management Essentials,2025-02-16,2025,2,1,1.5,Completed
+Kirana Yulianti,kirana.yulianti@idnmedia.com,Business Development,Surabaya,Jihan Yulianti,People Management 101,2025-04-20,2025,4,2,2,Completed
+Putri Sari,putri.sari@idnmedia.com,Sales & Partnership,Jakarta HQ,Krisna Setiawan,Project Management Essentials,2026-02-07,2026,2,1,1.5,In Progress
+Nadia Puspita,nadia.puspita@idnmedia.com,Content & Editorial,Bandung,Farah Anggraini,Excel for Analysts,2025-12-13,2025,12,4,1,Completed
+Oki Anggraini,oki.anggraini@idnmedia.com,Marketing & Brand,Remote,Nabila Nugroho,Project Management Essentials,2025-05-07,2025,5,2,2,Completed
+Nabila Hidayat,nabila.hidayat@idnmedia.com,Sales & Partnership,Surabaya,Miko Wijaya,Effective Communication,2025-05-18,2025,5,2,2,Completed
+Farah Santoso,farah.santoso@idnmedia.com,Product & Technology,Surabaya,Eka Prasetyo,People Management 101,2026-07-21,2026,7,3,2,Completed
+Krisna Iriana,krisna.iriana@idnmedia.com,Finance,Jakarta HQ,Chandra Yulianti,People Management 101,2025-07-01,2025,7,3,4,Completed
+Galih Utomo,galih.utomo@idnmedia.com,Product & Technology,Surabaya,Krisna Nugroho,People Management 101,2025-04-17,2025,4,2,2,Completed
+Gita Prasetyo,gita.prasetyo@idnmedia.com,Video Production,Surabaya,Ivan Pratama,Excel for Analysts,2026-06-01,2026,6,2,2,No Show
+Laras Anggraini,laras.anggraini@idnmedia.com,Sales & Partnership,Bandung,Laras Setiawan,Content Strategy,2025-10-08,2025,10,4,2,No Show
+Omar Hidayat,omar.hidayat@idnmedia.com,Business Development,Bandung,Wulan Puspita,Excel for Analysts,2025-05-17,2025,5,2,1.5,Completed
+Krisna Iriana,krisna.iriana@idnmedia.com,Finance,Jakarta HQ,Chandra Yulianti,Public Speaking,2025-11-03,2025,11,4,4,In Progress
+Hesti Utomo,hesti.utomo@idnmedia.com,People & Culture,Remote,Bimo Kusuma,Design Thinking,2025-08-11,2025,8,3,1.5,Completed
+Bimo Rahayu,bimo.rahayu@idnmedia.com,Finance,Remote,Putri Permadi,Leadership Foundations,2025-12-20,2025,12,4,4,No Show
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,Public Speaking,2025-07-02,2025,7,3,3,Completed
+Gita Prasetyo,gita.prasetyo@idnmedia.com,Video Production,Surabaya,Ivan Pratama,Public Speaking,2025-04-29,2025,4,2,2,Completed
+Krisna Rahayu,krisna.rahayu@idnmedia.com,People & Culture,Bandung,Jihan Prasetyo,Public Speaking,2026-03-04,2026,3,1,4,Completed
+Joko Hidayat,joko.hidayat@idnmedia.com,Video Production,Bandung,Wulan Utomo,Data Storytelling,2025-01-14,2025,1,1,3,Completed
+Oki Sari,oki.sari@idnmedia.com,People & Culture,Jakarta HQ,Eka Wijaya,Effective Communication,2025-02-24,2025,2,1,4,Completed
+Putri Yulianti,putri.yulianti@idnmedia.com,Video Production,Bandung,Dian Iriana,Negotiation Skills,2025-10-21,2025,10,4,4,Completed
+Krisna Hidayat,krisna.hidayat@idnmedia.com,Product & Technology,Remote,Laras Hidayat,Public Speaking,2025-10-30,2025,10,4,1.5,Completed
+Omar Hidayat,omar.hidayat@idnmedia.com,Business Development,Bandung,Wulan Puspita,Public Speaking,2025-04-15,2025,4,2,3,In Progress
+Hana Utomo,hana.utomo@idnmedia.com,People & Culture,Bandung,Dewi Rahayu,Public Speaking,2026-02-03,2026,2,1,1.5,In Progress
+Putri Pratama,putri.pratama@idnmedia.com,Finance,Remote,Kirana Rahayu,Excel for Analysts,2025-02-18,2025,2,1,2,Completed
+Bella Utomo,bella.utomo@idnmedia.com,Finance,Jakarta HQ,Nabila Permadi,Effective Communication,2026-07-20,2026,7,3,1,Completed
+Laras Yulianti,laras.yulianti@idnmedia.com,Product & Technology,Bandung,Krisna Wijaya,Content Strategy,2026-03-30,2026,3,1,1.5,Completed
+Rangga Wibowo,rangga.wibowo@idnmedia.com,Marketing & Brand,Surabaya,Fajar Hidayat,Design Thinking,2025-07-21,2025,7,3,4,Completed
+Krisna Gunawan,krisna.gunawan@idnmedia.com,Product & Technology,Remote,Eka Gunawan,Leadership Foundations,2025-03-18,2025,3,1,1.5,Completed
+Putri Sari,putri.sari@idnmedia.com,Sales & Partnership,Jakarta HQ,Krisna Setiawan,Excel for Analysts,2026-01-22,2026,1,1,1,Completed
+Dewi Kusuma,dewi.kusuma@idnmedia.com,Video Production,Surabaya,Rangga Rahayu,People Management 101,2025-05-14,2025,5,2,1.5,In Progress
+Hana Saputra,hana.saputra@idnmedia.com,Marketing & Brand,Bandung,Krisna Kusuma,Leadership Foundations,2025-12-05,2025,12,4,2,Completed
+Gita Prasetyo,gita.prasetyo@idnmedia.com,Video Production,Surabaya,Ivan Pratama,People Management 101,2025-02-22,2025,2,1,4,In Progress
+Gita Puspita,gita.puspita@idnmedia.com,Content & Editorial,Remote,Yoga Anggraini,Public Speaking,2026-05-18,2026,5,2,3,Completed
+Bella Utomo,bella.utomo@idnmedia.com,Finance,Jakarta HQ,Nabila Permadi,Leadership Foundations,2026-06-23,2026,6,2,1.5,Completed
+Nabila Hidayat,nabila.hidayat@idnmedia.com,Sales & Partnership,Surabaya,Miko Wijaya,Public Speaking,2025-06-13,2025,6,2,2,Completed
+Joko Rahayu,joko.rahayu@idnmedia.com,Video Production,Jakarta HQ,Jihan Permadi,Design Thinking,2025-12-24,2025,12,4,1.5,Completed
+Miko Nugroho,miko.nugroho@idnmedia.com,Marketing & Brand,Jakarta HQ,Krisna Nugroho,Design Thinking,2026-01-05,2026,1,1,2,No Show
+Miko Prasetyo,miko.prasetyo@idnmedia.com,Content & Editorial,Jakarta HQ,Rangga Kusuma,Public Speaking,2026-06-28,2026,6,2,2,In Progress
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,Content Strategy,2025-01-10,2025,1,1,1,Completed
+Hana Utomo,hana.utomo@idnmedia.com,People & Culture,Bandung,Dewi Rahayu,Content Strategy,2025-09-07,2025,9,3,1,Completed
+Krisna Kurniawan,krisna.kurniawan@idnmedia.com,Content & Editorial,Surabaya,Utami Hidayat,Public Speaking,2026-01-31,2026,1,1,2,Completed
+Nadia Wibowo,nadia.wibowo@idnmedia.com,Sales & Partnership,Jakarta HQ,Omar Permadi,Public Speaking,2026-06-14,2026,6,2,2,In Progress
+Omar Hidayat,omar.hidayat@idnmedia.com,Business Development,Bandung,Wulan Puspita,Negotiation Skills,2026-05-14,2026,5,2,1,In Progress
+Nadia Puspita,nadia.puspita@idnmedia.com,Content & Editorial,Bandung,Farah Anggraini,Data Storytelling,2025-11-25,2025,11,4,3,No Show
+Dewi Pratama,dewi.pratama@idnmedia.com,Content & Editorial,Remote,Putri Nugroho,Effective Communication,2026-07-05,2026,7,3,3,Completed
+Dewi Wijaya,dewi.wijaya@idnmedia.com,Business Development,Bandung,Lestari Kusuma,Excel for Analysts,2025-08-07,2025,8,3,4,In Progress
+Dewi Wijaya,dewi.wijaya@idnmedia.com,Business Development,Bandung,Lestari Kusuma,Excel for Analysts,2026-07-05,2026,7,3,4,Completed
+Hesti Puspita,hesti.puspita@idnmedia.com,Business Development,Bandung,Krisna Permadi,Project Management Essentials,2025-06-07,2025,6,2,1,Completed
+Farah Utomo,farah.utomo@idnmedia.com,Sales & Partnership,Remote,Prita Santoso,Effective Communication,2025-03-31,2025,3,1,1,Completed
+Tegar Prasetyo,tegar.prasetyo@idnmedia.com,People & Culture,Surabaya,Ivan Yulianti,People Management 101,2026-07-26,2026,7,3,1,In Progress
+Dewi Kusuma,dewi.kusuma@idnmedia.com,Video Production,Surabaya,Rangga Rahayu,Project Management Essentials,2026-02-22,2026,2,1,2,Completed
+Chandra Wijaya,chandra.wijaya@idnmedia.com,People & Culture,Remote,Bimo Sari,Excel for Analysts,2025-11-20,2025,11,4,1,Completed
+Farah Sari,farah.sari@idnmedia.com,Video Production,Surabaya,Hesti Nugroho,People Management 101,2025-01-07,2025,1,1,4,Completed
+Gita Nugroho,gita.nugroho@idnmedia.com,Marketing & Brand,Bandung,Krisna Setiawan,Data Storytelling,2025-02-16,2025,2,1,4,Completed
+Nabila Hidayat,nabila.hidayat@idnmedia.com,Sales & Partnership,Surabaya,Miko Wijaya,Negotiation Skills,2025-04-19,2025,4,2,2,Completed
+Putri Pratama,putri.pratama@idnmedia.com,Finance,Remote,Kirana Rahayu,Excel for Analysts,2026-03-25,2026,3,1,2,In Progress
+Nadia Wibowo,nadia.wibowo@idnmedia.com,Sales & Partnership,Jakarta HQ,Omar Permadi,Public Speaking,2026-05-01,2026,5,2,1.5,Completed
+Oki Rahayu,oki.rahayu@idnmedia.com,Business Development,Jakarta HQ,Farah Setiawan,Leadership Foundations,2026-07-13,2026,7,3,2,Completed
+Hana Utomo,hana.utomo@idnmedia.com,People & Culture,Bandung,Dewi Rahayu,Public Speaking,2026-01-18,2026,1,1,1,In Progress
+Oki Sari,oki.sari@idnmedia.com,People & Culture,Jakarta HQ,Eka Wijaya,Effective Communication,2025-05-07,2025,5,2,1,Completed
+Oki Rahayu,oki.rahayu@idnmedia.com,Business Development,Jakarta HQ,Farah Setiawan,Data Storytelling,2026-07-05,2026,7,3,3,Completed
+Chandra Wibowo,chandra.wibowo@idnmedia.com,Video Production,Surabaya,Agus Rahayu,Public Speaking,2025-08-05,2025,8,3,2,Completed
+Gita Wijaya,gita.wijaya@idnmedia.com,Content & Editorial,Jakarta HQ,Chandra Yulianti,Negotiation Skills,2025-08-15,2025,8,3,3,Completed
+Gita Wijaya,gita.wijaya@idnmedia.com,Content & Editorial,Jakarta HQ,Chandra Yulianti,Project Management Essentials,2025-02-25,2025,2,1,3,Completed
+Hesti Puspita,hesti.puspita@idnmedia.com,Business Development,Bandung,Krisna Permadi,Data Storytelling,2025-10-25,2025,10,4,4,Completed
+Laras Yulianti,laras.yulianti@idnmedia.com,Product & Technology,Bandung,Krisna Wijaya,Content Strategy,2026-05-14,2026,5,2,2,Completed
+Omar Sari,omar.sari@idnmedia.com,Marketing & Brand,Remote,Bella Permadi,Negotiation Skills,2025-08-29,2025,8,3,1,Completed
+Nadia Puspita,nadia.puspita@idnmedia.com,Content & Editorial,Bandung,Farah Anggraini,Project Management Essentials,2025-11-22,2025,11,4,2,Completed
+Krisna Yulianti,krisna.yulianti@idnmedia.com,Business Development,Jakarta HQ,Vino Prasetyo,People Management 101,2025-11-10,2025,11,4,4,Completed
+Laras Wibowo,laras.wibowo@idnmedia.com,Finance,Remote,Made Wibowo,Excel for Analysts,2026-01-09,2026,1,1,2,Completed

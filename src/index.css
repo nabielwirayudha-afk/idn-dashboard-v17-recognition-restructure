@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+@import "./styles/design-system.css";
+
+/* ============================================
+   SPACING FIX — jarak antar kotak di semua tab
+   ============================================ */
+.page-container > * + * {
+  margin-top: 1.5rem;
+}
+
+.panel-grid {
+  gap: 1.5rem !important;
+}
+
+.kpi-grid {
+  gap: 1rem !important;
+}

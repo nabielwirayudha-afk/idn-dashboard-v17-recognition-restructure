@@ -1,0 +1,382 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+/* =========================================================
+   IDN Employee Experience Dashboard — Design System v2.2
+   ========================================================= */
+
+:root {
+  /* ── Brand ───────────────────────────────────────────── */
+  --color-brand-500: #ED2127;
+  --color-brand-600: #C91A20;
+  --color-brand-300: #F87171;
+  --color-brand-rgb: 237, 33, 39;
+
+  /* ── Semantic ────────────────────────────────────────── */
+  --color-success: #10B981;
+  --color-success-bg: rgba(16, 185, 129, 0.12);
+  --color-warning: #F59E0B;
+  --color-warning-bg: rgba(245, 158, 11, 0.12);
+  --color-danger: #EF4444;
+  --color-danger-bg: rgba(239, 68, 68, 0.12);
+  --color-info: #3B82F6;
+  --color-info-bg: rgba(59, 130, 246, 0.12);
+
+  /* ── Text ────────────────────────────────────────────── */
+  --color-text-primary: #2B2D42;
+  --color-text-secondary: #52423D;
+  --color-text-muted: #9A6A75;
+
+  /* ── Surface ─────────────────────────────────────────── */
+  --color-surface: #FFFFFF;
+  --color-surface-sunken: #F9F7F6;
+  --color-canvas: #F5F0EE;
+
+  /* ── Borders ─────────────────────────────────────────── */
+  --color-border-default: #E0C4B8;
+  --color-border-subtle: #D4B4A6;
+
+  /* ── Panel (ChartCard, etc) ──────────────────────────── */
+  --color-panel-bg: #FFFFFF;
+  --color-panel-text: #2B2D42;
+
+  /* ── KPI Card ────────────────────────────────────────── */
+  --color-kpi-bg: #FFFFFF;
+  --color-kpi-text: #2B2D42;
+  --color-kpi-label: #9A6A75;
+  --color-kpi-accent: #ED2127;
+
+  /* ── Dark Card (SolidPie / ScalarKpi) ────────────────── */
+  --color-dark-card-bg: #0F1115;
+  --color-dark-card-text: #F5F5F5;
+  --color-dark-card-muted: #8b8d94;
+  --color-dark-card-dim: #4a4c54;
+  --color-dark-card-border: #25272e;
+
+  /* ── Chart ───────────────────────────────────────────── */
+  --color-chart-grid: #D4B4A6;
+
+  /* ── Shadows ──────────────────────────────────────────── */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+
+  /* ── Misc ────────────────────────────────────────────── */
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+
+  /* ═══════════════════════════════════════════════════════
+     BACKWARD COMPATIBILITY ALIASES
+     (modal lama pakai nama tanpa "color-" prefix)
+     ═══════════════════════════════════════════════════════ */
+  --surface: var(--color-surface);
+  --canvas: var(--color-canvas);
+  --border-subtle: var(--color-border-subtle);
+  --border-default: var(--color-border-default);
+  --text-primary: var(--color-text-primary);
+  --text-secondary: var(--color-text-secondary);
+  --text-muted: var(--color-text-muted);
+  --brand-500: var(--color-brand-500);
+  --success: var(--color-success);
+  --warning: var(--color-warning);
+  --danger: var(--color-danger);
+  --info: var(--color-info);
+}
+
+/* ── Dark Mode ─────────────────────────────────────────── */
+.dark {
+  --color-text-primary: #F5F5F5;
+  --color-text-secondary: #D4B4A6;
+  --color-text-muted: #9A8B84;
+
+  --color-surface: #1A1D23;
+  --color-surface-sunken: #14161B;
+  --color-canvas: #0F1115;
+
+  --color-border-default: #2A2E36;
+  --color-border-subtle: #25272e;
+
+  --color-panel-bg: #1A1D23;
+  --color-panel-text: #F5F5F5;
+
+  --color-kpi-bg: #1A1D23;
+  --color-kpi-text: #F5F5F5;
+  --color-kpi-label: #9A8B84;
+
+  --color-dark-card-bg: #0F1115;
+  --color-dark-card-text: #F5F5F5;
+  --color-dark-card-muted: #8b8d94;
+  --color-dark-card-dim: #4a4c54;
+  --color-dark-card-border: #25272e;
+
+  --color-chart-grid: #2A2E36;
+
+  /* Backward compat aliases — dark mode */
+  --surface: var(--color-surface);
+  --canvas: var(--color-canvas);
+  --border-subtle: var(--color-border-subtle);
+  --border-default: var(--color-border-default);
+  --text-primary: var(--color-text-primary);
+  --text-secondary: var(--color-text-secondary);
+  --text-muted: var(--color-text-muted);
+  --brand-500: var(--color-brand-500);
+  --success: var(--color-success);
+  --warning: var(--color-warning);
+  --danger: var(--color-danger);
+  --info: var(--color-info);
+}
+
+/* ── Base ──────────────────────────────────────────────── */
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: var(--color-canvas);
+  color: var(--color-text-primary);
+}
+
+/* ── Layout ───────────────────────────────────────────── */
+.page-container {
+  padding: 1.5rem;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.page-header {
+  margin-bottom: 1.5rem;
+}
+
+.page-header__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-text-primary);
+  line-height: 1.2;
+}
+
+.page-header__subtitle {
+  font-size: 0.875rem;
+  color: var(--color-text-muted);
+  margin-top: 0.25rem;
+}
+
+.section-header {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin: 1.5rem 0 1rem;
+}
+
+/* ── KPI Grid ─────────────────────────────────────────── */
+.kpi-grid {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.kpi-grid--3 { grid-template-columns: repeat(3, 1fr); }
+.kpi-grid--4 { grid-template-columns: repeat(4, 1fr); }
+.kpi-grid--5 { grid-template-columns: repeat(5, 1fr); }
+
+@media (max-width: 1024px) {
+  .kpi-grid--4,
+  .kpi-grid--5 { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 640px) {
+  .kpi-grid--3,
+  .kpi-grid--4,
+  .kpi-grid--5 { grid-template-columns: 1fr; }
+}
+
+/* ── Panel Grid ─────────────────────────────────────────── */
+.panel-grid {
+  display: grid;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.panel-grid--2 { grid-template-columns: repeat(2, 1fr); }
+
+@media (max-width: 1024px) {
+  .panel-grid--2 { grid-template-columns: 1fr; }
+}
+
+/* ── Insight Card ─────────────────────────────────────── */
+.insight-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-subtle);
+  border-radius: var(--radius-xl);
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.insight-card__header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.insight-card__icon-box {
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.5rem;
+  background: var(--color-brand-500);
+  color: #fff;
+  flex-shrink: 0;
+}
+
+.insight-card__title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.insight-card__list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.insight-card__item {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.insight-card__bullet {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-brand-500);
+  margin-top: 0.5rem;
+  flex-shrink: 0;
+}
+
+.insight-card__text {
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  color: var(--color-text-secondary);
+}
+
+.insight-card__label {
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+/* ── Search Input ─────────────────────────────────────── */
+.search-input {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-subtle);
+  border-radius: 0.75rem;
+  padding: 0.5rem 0.875rem;
+  max-width: 320px;
+}
+
+.search-input__icon {
+  color: var(--color-text-muted);
+  flex-shrink: 0;
+}
+
+.search-input__field {
+  background: transparent;
+  border: none;
+  outline: none;
+  font-size: 0.875rem;
+  color: var(--color-text-primary);
+  width: 100%;
+}
+
+.search-input__field::placeholder {
+  color: var(--color-text-muted);
+}
+
+/* ── Data Table ─────────────────────────────────────────── */
+.table-container {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-subtle);
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+}
+
+.table-container__scroll {
+  overflow-x: auto;
+}
+
+.table-container table {
+  width: 100%;
+  font-size: 0.875rem;
+  border-collapse: collapse;
+}
+
+.table-container thead tr {
+  border-bottom: 1px solid var(--color-border-subtle);
+}
+
+.table-container th {
+  padding: 0.75rem 1rem;
+  font-weight: 500;
+  text-align: left;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+}
+
+.table-container td {
+  padding: 0.75rem 1rem;
+  color: var(--color-text-primary);
+  border-bottom: 1px solid var(--color-border-subtle);
+}
+
+.table-container tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.table-container tbody tr:hover {
+  background: var(--color-canvas);
+}
+
+/* ── Sort Header ──────────────────────────────────────── */
+.sort-header {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-weight: 500;
+  color: var(--color-text-muted);
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+
+.sort-header:hover {
+  color: var(--color-text-primary);
+}
+
+.sort-header__icon {
+  opacity: 0.4;
+  transition: opacity 0.2s;
+}
+
+.sort-header__icon--active {
+  opacity: 1;
+  color: var(--color-brand-500);
+}
+
+/* ── Cell Numeric ──────────────────────────────────────── */
+.cell-numeric {
+  text-align: center;
+}
+
+.cell-zero {
+  color: var(--color-text-muted);
+  opacity: 0.5;
+}
+
+/* ── Tabular Numbers ──────────────────────────────────── */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
