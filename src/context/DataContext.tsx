@@ -1,4 +1,4 @@
-import { createContext, useContext, useEffect, useMemo, useState, useCallback, useRef, type ReactNode } from 'react';
+import { createContext, useContext, useEffect, useMemo, useState, useCallback, type ReactNode } from 'react';
 import { buildDatasetFromRemote, loadSampleDataset } from '@/lib/dataLoader';
 import {
   filterEmployees,
@@ -227,16 +227,13 @@ function getInitialState() {
 export function DataProvider({ children }: { children: ReactNode }) {
   const init = getInitialState();
 
-  const [token, setToken] = useState<string | null>(init.token);
+  const [token] = useState<string | null>(init.token);
   const [department, setDepartment] = useState<string | null>(init.department);
   const [isAdmin, setIsAdmin] = useState(init.isAdmin);
   const [raw, setRaw] = useState<Dataset>(init.raw);
   const [status, setStatus] = useState<DataSourceStatus>(init.status);
   const [attempt, setAttempt] = useState(0);
   const [filters, setFilters] = useState<GlobalFilters>(init.filters);
-
-  // Track apakah sudah fetch di background
-  const hasFetched = useRef(false);
 
   useEffect(() => {
     let cancelled = false;

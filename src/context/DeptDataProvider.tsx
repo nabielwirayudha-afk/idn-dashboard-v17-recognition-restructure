@@ -1,4 +1,5 @@
-import { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import { createContext, useContext } from 'react';
+import type { ReactNode } from 'react';
 import { useDeptToken, useDeptData } from '@/hooks/useDeptToken';
 
 interface DeptDataContextType {
